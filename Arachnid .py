@@ -157,7 +157,7 @@ class WebScanner:
             print(f"{Fore.YELLOW}[!] Error scanning for PHP links: {str(e)}{Fore.RESET}")
     
     def scan_api_keys(self, url):
-        print(f"{Fore.CYAN}[*] Scanning for exposed API keys on {url}{Fore.RESET}")
+        print(f"{Fore.GREEN}[*] Scanning for exposed API keys on {url}{Fore.RESET}")
         API_KEY_PATTERNS = {
             'Google API Key': r'AIza[0-9A-Za-z-_]{35}',
             'AWS Access Key ID': r'AKIA[0-9A-Z]{16}',
