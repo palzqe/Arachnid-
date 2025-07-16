@@ -2,7 +2,7 @@
 Automated security scanning for XSS, SQLi, LFI, API leaks, and more.
 
 https://github.com/user-attachments/assets/4af2eaa7-a348-4ac6-a31a-a932910fc354
-(Screenshot: Arachnid in action)
+(Screenshot: Arachnid UI)
 
 🔍 What Can Arachnid Do?
 Arachnid is a lightweight yet powerful web vulnerability scanner designed for security researchers, developers, and ethical hackers.
